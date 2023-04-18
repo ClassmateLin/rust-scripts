@@ -1,5 +1,5 @@
 # Rust写的脚本列表
-
+支持`docker-compose`一键安装, 见[docker-compose.script.yml](https://github.com/ClassmateLin/lazy-docker)
 |名称|描述|
 |---|---|
 |[upyun](https://github.com/ClassmateLin/upyun)|又拍云云海探宝自动签到做任务脚本|
